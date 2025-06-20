@@ -9,10 +9,15 @@
 - Validates and parses phone numbers with country codes
 - Displays:
   -> 📞 Number
+  
   -> 🌍 Country
+
   -> 📍 Region (if available)
+
   -> 🕒 Local time
+
   -> ⏱️ Timezone
+
   -> 🌞 Whether it’s Day or Night
 - Clean and structured replies with intuitive emojis
 ---
