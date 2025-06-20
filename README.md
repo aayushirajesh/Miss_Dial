@@ -1,4 +1,4 @@
-# [Miss_Dial 💫 — Telegram Number Info Bot](https://t.me/your_bot_username)
+# [💫Miss_Dial - Telegram Number Info Bot](https://t.me/your_bot_username)
 
 **Miss_Dial** is a simple and accurate Telegram bot that reveals essential information about any phone number you send it. Built using Python and the `phonenumbers` library, Miss_Dial tells you the country, region, timezone, local time, and whether it's day or night at that location.
 
@@ -8,6 +8,7 @@
 
 - Validates and parses phone numbers with country codes
 - Displays:
+  
   -> 📞 Number
   
   -> 🌍 Country
