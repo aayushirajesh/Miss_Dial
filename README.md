@@ -55,10 +55,10 @@ Once the bot is running, open Telegram, search for your bot, and send a number l
 ---
 
 ## How to Get Your Telegram Bot Token🔑
-Use @BotFather on Telegram to create a bot and get your token.
+Use [BotFather](https://core.telegram.org/bots#creating-a-new-bot) on Telegram to create a bot and get your token.
 
 ---
 
 ## Author
 Feel free to star⭐ the repo, open issues, or contribute!
-Developed by @aayushirh.
+Developed by [@aayushirh](https://www.instagram.com/aayushirh/).
